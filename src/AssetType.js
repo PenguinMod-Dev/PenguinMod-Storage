@@ -46,6 +46,12 @@ const AssetType = {
         name: 'Font',
         runtimeFormat: DataFormat.TTF,
         immutable: true
+    },
+    TextBubble: {
+        contentType: 'application/json',
+        name: 'TextBubbleProperties',
+        runtimeFormat: DataFormat.JSON,
+        immutable: true
     }
 };
 
