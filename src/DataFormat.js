@@ -14,8 +14,7 @@ const DataFormat = {
     TTF: 'ttf',
     OTF: 'otf',
     WOFF: 'woff',
-    WOFF2: 'woff2',
-    TXT: 'txt'
+    WOFF2: 'woff2'
 };
 
 module.exports = DataFormat;

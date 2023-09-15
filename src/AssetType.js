@@ -52,12 +52,6 @@ const AssetType = {
         name: 'TextBubbleProperties',
         runtimeFormat: DataFormat.JSON,
         immutable: true
-    },
-    ExternalFile: {
-        contentType: 'text/plain',
-        name: 'ExternalFile',
-        runtimeFormat: DataFormat.TXT,
-        immutable: false
     }
 };
 
